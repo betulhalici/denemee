@@ -13,6 +13,6 @@
 2.  Kodlar üzerindeki değişiklikleri geri almak istersek değişiklik yapılmadan önceki eski versiyonu bizim için saklar.
 3.  Yazılan kodlar kontrol sistemi sunucusuna gönderilip ,daha sonra istenen kısımlar indirilip üzerinde değişiklik yapılabilir.
 4.  Farklı gereksinimler için farklı dallar oluşturup aynı anda birden fazla geliştirme yapabilir ve bu geliştirmeleri sonradan tek bir projede toplayabiliriz.
-5.  Herhangi bir dosyanın eski sürümünü indirebilir,yeni sürümü ile arasındaki farkları görebiliriz.
- 
+
+6. deneme
 
